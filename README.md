@@ -6,7 +6,7 @@
 </p>
 
 ## 데이터 분석 전문가를 목표로 하는 비전공자 ✍️
-### Deep Learning / Machine Learning / Data analysis
+### Deep Learning / Machine Learning / Data analysis / LLM
 
 - 모르는 것을 부끄러워하지 않고 **계속해서 배우고 성장**하는 것을 지향합니다.
 - 사람들이 필요한 것이 무엇인지 고민하며, 팀원과 원활히 **소통하고  협력**하여 목표를 달성합니다.
