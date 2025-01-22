@@ -31,17 +31,29 @@
 # 🛠️ Project 주요 프로젝트
 <img src="https://fresh-period-3a1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6d2c58bb-9ca1-4848-a47d-779c62794456%2F6ffc00ad-c961-4ed2-8b98-ba3f1c9a5986%2F1.jpg?table=block&id=3477fa2a-e2f7-4f32-88b0-60768af04068&spaceId=6d2c58bb-9ca1-4848-a47d-779c62794456&width=1690&userId=&cache=v2">
 - RAG 기반 교육 안내 챗봇 프로젝트  
-- https://github.com/bgmbgm94/Big_07_Doc_Project  
-- 소개 : OpenSearch와 FastAPI, AWS 클라우드 컴퓨팅 서비스와 텍스트의 이해 및 분석에 기반한 대규모 언어 모델(LLM)을 활용하여 교육 운영 및 행정 검색 서비스를 개발  
-- 진행 기간 : 2024/06/13 → 2024/07/29  
+
+- https://github.com/bgmbgm94/Big_07_Doc_Project
+
+- 소개 : OpenSearch와 FastAPI, AWS 클라우드 컴퓨팅 서비스와 텍스트의 이해 및 분석에 기반한 대규모 언어 모델(LLM)을 활용하여 교육 운영 및 행정 검색 서비스를 개발
+  
+- 진행 기간 : 2024/06/13 → 2024/07/29
+  
 - 맡은 업무 : 모델 선정 및 테스트(OPENAI, Claude, Bedrock) / Prompt Engineering / DB구축(Opensearch)
+  
 - 상세 내용
-- 생성형 AI의 환각현상에 대응하기 위해 Retrieval-Augmented Generation(RAG) 방식의 문서 검색 시스템을 기반으로 하는 챗봇 개발.  
-- 문서검색 기반인 RAG 방식을 채택하여 도메인에 특화된 응답 정확성을 높였으며, OpenSearch를 활용한 데이터 검색과 관리 시스템을 구축.  
-- 데이터는 KDT, 내일배움카드, 국민취업지원제도 및 운영 매뉴얼을 중심으로 총 11개의 PDF 파일에서 텍스트를 추출하였으며, 다양한 데이터를 효과적으로 적재 및 분석.  
-- LLM의 문맥 관리를 위해 세션 유지 기술을 적용하여 대화형 인공지능 모델이 사용자의 이전 발언이나 질문을 기억하고, 이에 맞춰 적절한 답변 제공.  
+  
+- 생성형 AI의 환각현상에 대응하기 위해 Retrieval-Augmented Generation(RAG) 방식의 문서 검색 시스템을 기반으로 하는 챗봇 개발.
+  
+- 문서검색 기반인 RAG 방식을 채택하여 도메인에 특화된 응답 정확성을 높였으며, OpenSearch를 활용한 데이터 검색과 관리 시스템을 구축.
+  
+- 데이터는 KDT, 내일배움카드, 국민취업지원제도 및 운영 매뉴얼을 중심으로 총 11개의 PDF 파일에서 텍스트를 추출하였으며, 다양한 데이터를 효과적으로 적재 및 분석.
+  
+- LLM의 문맥 관리를 위해 세션 유지 기술을 적용하여 대화형 인공지능 모델이 사용자의 이전 발언이나 질문을 기억하고, 이에 맞춰 적절한 답변 제공.
+  
 - 프롬프트 설정에서는 역할 기반 설정, 응답 스타일 지침 및 예시 등을 통해 챗봇의 일관된 응답 유도.
+  
 - 질문과 답변을 opensearh에 저장하여 대화내용을 기록, 추적 가능하게 구현.
+  
 
 ---
 
