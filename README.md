@@ -27,6 +27,15 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 ---
+
+# 🛠️ Project 주요 프로젝트
+<img src="https://fresh-period-3a1.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6d2c58bb-9ca1-4848-a47d-779c62794456%2F6ffc00ad-c961-4ed2-8b98-ba3f1c9a5986%2F1.jpg?table=block&id=3477fa2a-e2f7-4f32-88b0-60768af04068&spaceId=6d2c58bb-9ca1-4848-a47d-779c62794456&width=1690&userId=&cache=v2">
+- RAG 기반 교육 안내 챗봇 프로젝트
+- https://github.com/bgmbgm94/Big_07_Doc_Project
+- 소개 : OpenSearch와 FastAPI, AWS 클라우드 컴퓨팅 서비스와 텍스트의 이해 및 분석에 기반한 대규모 언어 모델(LLM)을 활용하여 교육 운영 및 행정 검색 서비스를 개발
+- 진행 기간 : 2024/06/13 → 2024/07/29
+- 
+
 <p align="center">
     <img src="https://github.com/PlutoJoshua/Python/blob/main/Photo/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-02-07%20080055.png?raw=true" alt="Image"/>
 </p>
