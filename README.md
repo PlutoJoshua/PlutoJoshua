@@ -59,7 +59,8 @@
 ---
 
 - 파이썬 코딩 챗봇 개발 프로젝트
-- [![Video Label](http://img.youtube.com/vi/mKGebMXqngw/0.jpg)](https://youtu.be/-qK1lGQBR6I?si=wUpm7huP6amODgWb)
+<img width="743" alt="loading..." src="https://github.com/PlutoJoshua/CodeGenius_Project/raw/main/Model/assets/main1.png">
+<br><br>
 - https://github.com/PlutoJoshua/CodeGenius_Project
 - 소개 : 파이썬 교육생들의 학습 경험을 향상시키고, 장기적으로 학습 데이터를 수집하여 컨텐츠 개발에 활용할 수 있는 파이썬 코딩 챗봇 개발 프로젝트  
 - 진행 기간 : 2024/05/21 → 2024/06/13  
