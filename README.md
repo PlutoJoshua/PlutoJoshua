@@ -24,12 +24,7 @@
 - 🎓 천재교육 빅데이터 서비스 개발자 양성과정 수료 (2024)
 - 😎 천재교육 인턴 완료 (2024.09 ~ 2024.12)
 
-### 💡 My Philosophy
-> 모르는 것을 부끄러워하지 않고 **계속해서 배우고 성장**합니다.  
-> **실패를 두려워하지 않고** 새롭고 다양한 도전을 합니다.
-
-
-# 🛠️ Stacks 기술 스택
+## 💡 My Philosophy
 > 모르는 것을 부끄러워하지 않고 **계속해서 배우고 성장**합니다.  
 > **실패를 두려워하지 않고** 새롭고 다양한 도전을 합니다.
 
@@ -49,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PlutoJoshua&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoJoshua&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PlutoJoshua&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoJoshua&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
 </p>
 
 ---
